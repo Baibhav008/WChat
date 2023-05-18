@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162099301376",
+    "firebase_url": "https://wchat-84e28-default-rtdb.firebaseio.com",
+    "project_id": "wchat-84e28",
+    "storage_bucket": "wchat-84e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162099301376:android:ec30cc1c4e6c7e287d9ce5",
+        "android_client_info": {
+          "package_name": "com.example.wchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162099301376-k387vebma6jloqj0n7tv2ssilig0g13e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wchat",
+            "certificate_hash": "d000d979baa309d7a71c83bb739d9aefb6813b4a"
+          }
+        },
+        {
+          "client_id": "162099301376-fiav208brnju4la7j0iqi5s76uerk4qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkgaY6zLlfLKHGUb8M4LGwJa8jeZn_5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162099301376-fiav208brnju4la7j0iqi5s76uerk4qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
